@@ -22,3 +22,8 @@ unzip reality-checker-linux-amd64.zip && chmod +x reality-checker
 ```
 ./reality-checker csv file.csv
 ```
+<br><br>
+安装s-ui：
+```
+bash <(curl -Ls https://raw.githubusercontent.com/alireza0/s-ui/master/install.sh)
+```

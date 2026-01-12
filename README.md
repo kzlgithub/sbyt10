@@ -1,4 +1,5 @@
-
+一年十美金VPS：https://vpsfq.com/?p=1398
+<br><br>
 RealiTLScanner下载地址：https://github.com/XTLS/RealiTLScanner/releases
 <br><br>
 扫描命令：

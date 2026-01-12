@@ -1,11 +1,4 @@
-# 🚀 【sui+reality】用S-UI搭建vless+Reality节点，便宜VPS一年十美金
-
-<div align="center">
-  <a href="https://www.youtube.com/@%E8%B5%9B%E5%8D%9A%E4%BA%91%E6%A2%AF">
-    <strong>🚀 点击访问赛博云梯 YouTube 主页</strong>
-  </a>
-</div>
-<br><br>
+# 🚀 【sui+reality】用S-UI搭建Reality节点，便宜VPS一年十美金
 一年十美金VPS：https://vpsfq.com/?p=1398
 <br><br>
 随机地址电话生成：https://addressgenerator.top/zh/us-address-generator

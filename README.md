@@ -1,4 +1,4 @@
-# 🚀 【sui+reality】用S-UI搭建Reality节点，便宜VPS一年十美金
+# 🚀 【sui+reality】用S-UI搭建vless+Reality节点，便宜VPS一年十美金
 一年十美金VPS：https://vpsfq.com/?p=1398
 <br><br>
 随机地址电话生成：https://addressgenerator.top/zh/us-address-generator

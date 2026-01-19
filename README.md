@@ -1,3 +1,5 @@
+[![图片](https://img.youtube.com/vi/zNcJHH4u8mM/0.jpg)](https://www.youtube.com/watch?v=zNcJHH4u8mM)
+
 # 🚀 【sui+reality】用S-UI搭建vless+Reality节点，便宜VPS一年十美金
 <div align="center">
   <a href="https://www.youtube.com/@%E8%B5%9B%E5%8D%9A%E4%BA%91%E6%A2%AF">
